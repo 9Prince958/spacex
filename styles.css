@@ -1,0 +1,214 @@
+videoo{
+  position:relative;
+  display:block;
+  width:100%; 
+}
+.float-ryt1{
+  position:absolute;
+  font-weight: bold;
+
+  color: white;
+  font-size: medium;
+}
+.float-ryt3{
+  font-size:medium;
+}
+.polarisis3{
+  font-size: 200%;
+}
+.float-ryt4{
+  font-size:medium;
+}
+.polarisis4{
+  font-size: 200%;
+}
+.float-ryt5{
+  font-size:medium;
+}
+.polarisis1{
+  font-size: 200%;
+}
+.polarisis5{
+  font-size: 200%;
+}
+.float-ryt6{
+  font-size:medium;
+  position: absolute;
+  top: 4770px;
+  left: 80px;
+}
+.polarisis6{
+  font-size: 200%;
+}
+h2.float-ryt1{
+  top:600px;
+left:50px;
+}
+h3.float-ryt3{
+  top: 600px;
+}
+h4.float-ryt4{
+  top: 600px;
+}
+h5.float-ryt5{
+  top: 100px;
+
+}
+
+a.button.btn-primary.btn-lg.float-right{
+  top: 900px;
+}
+a.btn.btn-transparent.btn-lg.float-ryt5{
+  left: -8px;
+  color: white;
+  font-weight: bold;
+}
+a.btn.btn-transparent.btn-lg.float-ryt6{
+
+  top: 600px;
+}
+.clueless3{
+  position:relative;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+ 
+}
+
+.float-ryt3{
+  position:absolute;
+  left: 50px;
+  top: 800px;
+  color: white;
+}
+
+
+
+.clueless4{
+  position:relative;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+ 
+}
+
+.float-ryt4{
+  left: 50px;
+  color: white;
+  position:absolute;
+ 
+  
+}
+
+.clueless5{
+  position:relative;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+ 
+}
+
+.float-ryt5{
+  left: 50px;
+  color: white;
+  position:absolute;
+ 
+
+}
+
+
+videos{
+  position:relative;
+  display:block;
+  width:100%; 
+}
+.float-ryt6{
+  position:absolute;
+  font-family: serif;
+  color: white;
+  font-size: xx-large;
+}
+h3{
+  top:800px;
+left:50px;
+}
+
+div.row{
+  background-color: black;
+  color: white;
+  width: 50%;
+position: absolute;
+left: 520px;
+top: -2px;
+padding-top: 10px;
+
+
+}
+div.conatainer{
+  background-color:black;
+  padding:2px;
+
+}
+
+
+a{
+  text-transform: uppercase;
+ 
+  transition:0s;
+  transition-duration: 0.1s;
+  overflow: hidden;
+}
+a:hover{
+  background-color: transparent;
+  
+  box-shadow: 0 0 5px white,
+  0 0 25px white,
+  0 0 50px white,
+  0 0 200px white;
+  webkit-box-reflect: below 1px linear-gradient(transparent, transparent)
+}
+a.dropdown-item:hover{
+  color: black;
+}
+
+a:link{
+  padding: 5px;
+  
+}
+
+a.btn.btn-transparent.btn-lg.float-righ3{
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+
+}
+a.btn.btn-transparent.btn-lg.float-righ4{
+  color: white;
+  font-weight: bold;
+  font-size: large;
+ ;
+}
+a.btn.btn-transparent.btn-lg.float-righ5{
+  color:white;
+  font-weight: bold;
+  font-size: large; 
+
+}
+
+}
+a.btn.btn-transparent.btn-lg.float-ryt6{
+  color: white;
+  position: absolute;
+  bottom: px;
+  top: 4250px;
+  left: 50px;
+}
+a.btn.btn-transparent.btn-lg.float-righ1{
+  color: white;
+}
